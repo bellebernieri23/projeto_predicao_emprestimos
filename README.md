@@ -1,2 +1,4 @@
-# projeto_predicao_emprestimos
-Projeto de predição de aprovação de emprestimo utilizando python
+# rojeto_predicao_emprestimos
+Projeto de predição de apropvação de emprestimo utilizando python
+
+## como usar
